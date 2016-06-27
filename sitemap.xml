@@ -10,19 +10,35 @@
     
 
     
+        
     <url>
      <loc>http://zp.flyabroad.hk/wa/</loc>
      <lastmod>2016-06-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
+        
     <url>
-     <loc>http://zp.flyabroad.hk/gw/</loc>
+     <loc>http://zp.flyabroad.hk/tzwa/</loc>
      <lastmod>2016-06-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://zp.flyabroad.hk/lxgw/</loc>
+     <lastmod>2016-06-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zp.flyabroad.hk/tzgw/</loc>
+     <lastmod>2016-06-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
@@ -32,6 +48,28 @@
      <lastmod>2016-06-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>http://zp.flyabroad.hk/tg/</loc>
+     <lastmod>2016-06-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zp.flyabroad.hk/wx/</loc>
+     <lastmod>2016-06-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zp.flyabroad.hk/js/</loc>
+     <lastmod>2016-06-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
         
     <url>
      <loc>http://zp.flyabroad.hk/dz/</loc>
@@ -64,25 +102,7 @@
     </url>
         
     <url>
-     <loc>http://zp.flyabroad.hk/tg/</loc>
-     <lastmod>2016-06-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://zp.flyabroad.hk/wx/</loc>
-     <lastmod>2016-06-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
      <loc>http://zp.flyabroad.hk/pm/</loc>
-     <lastmod>2016-06-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://zp.flyabroad.hk/js/</loc>
      <lastmod>2016-06-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -92,6 +112,12 @@
     
         
     <url>
+     <loc>http://zp.flyabroad.hk/xz/</loc>
+     <lastmod>2016-06-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>http://zp.flyabroad.hk/rl/</loc>
      <lastmod>2016-06-27</lastmod>
      <changefreq>daily</changefreq>
@@ -99,12 +125,6 @@
         
     <url>
      <loc>http://zp.flyabroad.hk/zp/</loc>
-     <lastmod>2016-06-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>http://zp.flyabroad.hk/xz/</loc>
      <lastmod>2016-06-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
