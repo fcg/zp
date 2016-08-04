@@ -12,6 +12,12 @@
     
         
     <url>
+     <loc>http://zp.flyabroad.hk/fy/</loc>
+     <lastmod>2016-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>http://zp.flyabroad.hk/wa/</loc>
      <lastmod>2016-08-04</lastmod>
      <changefreq>daily</changefreq>
@@ -131,6 +137,12 @@
         
     <url>
      <loc>http://zp.flyabroad.hk/hrm/</loc>
+     <lastmod>2016-08-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://zp.flyabroad.hk/xzm/</loc>
      <lastmod>2016-08-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
